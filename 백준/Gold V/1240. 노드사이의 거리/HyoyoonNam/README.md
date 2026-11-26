@@ -1,3 +1,8 @@
+1. Tree라는 걸 인지해야 된다. 
+<img width="722" height="428" alt="스크린샷 2026-11-26 11 40 09" src="https://github.com/user-attachments/assets/1123f8a7-c09a-4ed5-bffa-e99cd56bdf58" />
+
+2. adjacency matrix로 풀면 OOM 뜬다.
+
 # [Gold V] 노드사이의 거리 - 1240 
 
 [문제 링크](https://acmicpc.net/problem/1240) 
